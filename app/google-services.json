@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "823539360132",
+    "firebase_url": "https://prueba-e607f.firebaseio.com",
+    "project_id": "prueba-e607f",
+    "storage_bucket": "prueba-e607f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823539360132:android:88277207f39a5f81",
+        "android_client_info": {
+          "package_name": "mx.anahuac.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823539360132-r520o4v029bssbgn2m90roq880qnnvk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnG29z1hQ-KVOfhLrL7YSe4vT47f4J-ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823539360132:android:f895d6636443c8ab",
+        "android_client_info": {
+          "package_name": "mx.anahuac.eventos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823539360132-rosjah9dr6n2e55l9unqjtojuajrp75c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.anahuac.eventos",
+            "certificate_hash": "bbde1d4411576d68de074e56bca597cf78381802"
+          }
+        },
+        {
+          "client_id": "823539360132-r520o4v029bssbgn2m90roq880qnnvk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnG29z1hQ-KVOfhLrL7YSe4vT47f4J-ok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823539360132-r520o4v029bssbgn2m90roq880qnnvk4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
